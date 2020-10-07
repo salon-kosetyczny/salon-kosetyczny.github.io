@@ -703,12 +703,12 @@ ul.hb_rev_slider, ul.hb_rev_slider li {
     background-size: cover;
 }
 .hb_banner_content:before{
-    background-image: url(https://young-face.github.io/images/top_border.png);	
+    background-image: url(https://salon-kosetyczny.github.io/images/top_border.png);	
     left: 0px;
     top: 0px;
 }
 .hb_banner_content:after {
-    background-image: url(https://young-face.github.io/images/bottom_border.png);
+    background-image: url(https://salon-kosetyczny.github.io/images/bottom_border.png);
     right: 0px;
     bottom: 0px;
 }
@@ -818,7 +818,7 @@ ul.hb_rev_slider, ul.hb_rev_slider li {
 /*-----categories section end------- */
 /*-------add banner start---------*/
 .hb_add_banner_wrapper {
-    background-image: url(https://young-face.github.io/images/back11.jpg);
+    background-image: url(https://salon-kosetyczny.github.io/images/back11.jpg);
     padding: 87px 0;
     position: relative;
     text-align: center;
@@ -968,7 +968,7 @@ ul.hb_rev_slider, ul.hb_rev_slider li {
 /*------feature section end-------*/
 /*-------testimonial section start-------*/
 .hb_testimonial_wrapper {
-    background-image: url(https://young-face.github.io/images/back10.jpg);
+    background-image: url(https://salon-kosetyczny.github.io/images/back10.jpg);
     padding: 100px 0;
     position: relative;
     background-repeat: no-repeat;
@@ -1023,7 +1023,7 @@ ul.hb_rev_slider, ul.hb_rev_slider li {
 .hb_tslider_data:before {
     position: absolute;
     content: '';
-    background-image: url(https://young-face.github.io/images/quote.png);
+    background-image: url(https://salon-kosetyczny.github.io/images/quote.png);
     width: 90px;
     height: 60px;
     background-repeat: no-repeat;
